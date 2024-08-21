@@ -68,7 +68,6 @@ These visualizations provide a clear and insightful understanding of the data.
 
 ### Example Visualizations
 
-This section highlights a sample visualization generated from the analysis of the 1842 census data. 
 Below is a visualization comparing the family sizes in the towns of Qazly and Javat.
 
 ![Sample Visualization](StackedBarChart.png)
